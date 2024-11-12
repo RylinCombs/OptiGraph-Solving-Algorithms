@@ -1,2 +1,5 @@
 # OptiGraph-Solving-Algorithms
-This project implements Kruskal's algorithm for finding the Minimum Spanning Tree and dynamic programming for solving the 0/1 Knapsack problem, demonstrating optimization techniques in graph theory and combinatorial optimization.
+The primary goal of this program is to apply the key concepts learned in my algorithms and data structures class in Java. Algorithms are necessary for systematic problem solving, and data structures are needed to store and organize the data in a way that makes the algorithms efficient and effective. Together, they are the foundation of computer science..The course emphasized finding efficient solutions and implementing algorithms that produce optimal results within a reasonable timeframe.
+
+I chose Kruskal's Algorithm and the 0/1 Knapsack Problem to showcase what I learned over this course because they represent fundamental approaches to algorithmic problem solving. Kruskal's Algorithm highlights my understanding of graph theory and minimum spanning trees, utilizing sorting and the union find data structure. The 0/1 Knapsack Problem, on the other hand, focuses on optimization through dynamic programming, requiring strategic decision making to find the best solution.
+
